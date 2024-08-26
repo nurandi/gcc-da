@@ -1,4 +1,4 @@
-# Tentang Project
+# Capstone Project of GCC Data Analysis (Cyclistic Bike Share)
 
 ## Skenario
 
